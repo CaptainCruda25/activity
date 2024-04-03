@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1712116058
+Brown.png::CompressedTexture2D::5636596009273869163::1712113190::1712113190::1::::<><>::
+icon.svg::CompressedTexture2D::5024176663199078997::1712111810::1712111830::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::5861632743128922730::1712116058::1712116058::1::::<><>::
+node.tscn::PackedScene::701826929665884025::1712114072::0::1::::<><>::uid://cmkn6be7m3xk2::::res://Brown.png<>uid://oqsc8j74mxpt::::res://Terrain (16x16).png
+Terrain (16x16).png::CompressedTexture2D::1016772081121996509::1712113714::1712113714::1::::<><>::
